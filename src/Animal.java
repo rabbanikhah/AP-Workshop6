@@ -8,4 +8,7 @@ public abstract class Animal {
         this.age = age;
         this.name = name;
     }
+
+    // methods
+    public abstract void show();
 }
